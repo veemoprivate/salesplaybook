@@ -34,6 +34,7 @@ For each of these we want to understand who the person is:
 > Duane anything else for this demographic/interests part?
 I have a metamodel for this already. The Blue header boxes are specific to Customers. Note the model is harmonized with other types of contacts we have for CRM, INvestment, supplier etc.
 
+![ContactsMetamodel drawio](https://user-images.githubusercontent.com/99785335/155594189-9d8f597f-75f9-4736-9955-17c854a997dc.png)
 
 
 This should be feeding into a CRM tool where inside sales/customer service or outside reps can search to understand where in the buyer journey the customer is.
